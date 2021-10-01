@@ -6,5 +6,5 @@
 
  **Soy un alumno de primero de DAM, y espsero que me valla bien.**
 
-![IPC Cuatrovientos](![LOGO DE MI CENTRO](./img/logo-cuatrovientos-2-1.png)
+![LOGO DE MI CENTRO](./img/logo-cuatrovientos-2-1.png)
 Este es mi primer trabajo y espero mejorar.
